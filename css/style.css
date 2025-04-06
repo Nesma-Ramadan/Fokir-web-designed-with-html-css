@@ -651,6 +651,7 @@ p {
     line-height: 32px;
     color: #333;
     padding: 8px 0;
+    transition: 1s;
 }
 
 .s6_info a:hover h2 {
@@ -731,7 +732,7 @@ textarea {
     width: fit-content;
     background-color: #ff305b;
     color: #fff;
-    font-size: 16px;
+    font-size: 14px;
     text-transform: uppercase;
     padding: 10px 20px;
     border: none;
@@ -751,7 +752,7 @@ textarea {
 
 .footer_icon i {
     color: #fff;
-    font-size: 24px;
+    font-size: 16px;
     margin: 16px;
     transition: 1s;
 }
